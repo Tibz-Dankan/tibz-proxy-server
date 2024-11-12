@@ -1,0 +1,24 @@
+2024/11/12 18:54:51 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 18:54:52 Error: Get "/favicon.ico": unsupported protocol scheme ""
+2024/11/12 18:55:09 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 18:55:09 Error: Get "/favicon.ico": unsupported protocol scheme ""
+2024/11/12 19:26:25 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 19:26:25 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 19:26:27 Error: Get "/favicon.ico": unsupported protocol scheme ""
+2024/11/12 19:30:10 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 19:30:10 Error: Get "/favicon.ico": unsupported protocol scheme ""
+2024/11/12 20:05:04 [2024-11-12 20:05:04] CONNECT //cryptopile.netlify.app:443 [::1]:42556
+2024/11/12 20:07:19 [2024-11-12 20:07:19] CONNECT //cryptopile.netlify.app:443 [::1]:52344
+2024/11/12 20:07:19 [2024-11-12 20:07:19] Request took 2.172486ms
+2024/11/12 20:16:33 [2024-11-12 20:16:33] CONNECT //cryptopile.netlify.app:443 [::1]:40398
+2024/11/12 20:16:33 [2024-11-12 20:16:33] Request took 10.463272ms
+2024/11/12 20:21:40 [2024-11-12 20:21:40] CONNECT //cryptopile.netlify.app:443 [::1]:51514
+2024/11/12 20:21:40 [2024-11-12 20:21:40] Request took 484.571µs
+2024/11/12 20:22:10 [2024-11-12 20:22:10] GET / [::1]:59890
+2024/11/12 20:22:10 Error: Get "/": unsupported protocol scheme ""
+2024/11/12 20:22:10 [2024-11-12 20:22:10] Request took 189.617µs
+2024/11/12 20:22:12 [2024-11-12 20:22:12] GET /favicon.ico [::1]:59890
+2024/11/12 20:22:12 Error: Get "/favicon.ico": unsupported protocol scheme ""
+2024/11/12 20:22:12 [2024-11-12 20:22:12] Request took 222.319µs
+2024/11/12 20:37:50 [2024-11-12 20:37:50] CONNECT //cryptopile.netlify.app:443 [::1]:37512
+2024/11/12 20:37:50 [2024-11-12 20:37:50] Request took 390.315µs
